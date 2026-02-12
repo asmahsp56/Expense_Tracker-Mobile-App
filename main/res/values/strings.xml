@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="label_total_balance">Total Balance</string>
+    <string name="hint_category">Category</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_amount">Amount</string>
+    <string name="button_add_income">Add Income</string>
+    <string name="button_add_expense">Add Expense</string>
+    <string name="heading_recent_transactions">Recent Transactions</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="deleteButton">Delete</string>
+    <string name="no_results_found">No results found</string>
+    <string name="filter_all">All Transactions</string>
+    <string name="filter_income">Income Only</string>
+    <string name="filter_expense">Expense Only</string>
+    <string name="label_total_income">Total Income</string>
+    <string name="label_total_expense">Total Expense</string>
+    <string name="label_transactions_count">%1$d transaction(s)</string>
+    <string name="student_info">Student Info: Asma Ahmad/BCSF22M5020</string>
+    <string-array name="income_categories">
+        <item>Salary</item>
+        <item>Freelance</item>
+        <item>Investment</item>
+        <item>Gift</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
